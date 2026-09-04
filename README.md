@@ -743,14 +743,9 @@ The mathematical operations, memory updates, similarity calculations, and grid t
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:0f172a&height=140&section=footer&animation=fadeIn"/>
-
 # 🧠 `REMEMBER DIFFERENTLY.`
 
 ### *From context windows to synaptic state.*
-
-<br>
 
 `HEBBIAN PLASTICITY` · `FAST WEIGHTS` · `LATENT REASONING` · `ARC-AGI`
 
